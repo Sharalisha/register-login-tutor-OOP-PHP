@@ -1,0 +1,72 @@
+
+/*external css cused across the full site*/
+body{
+    background: #eaedef;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ h1,h2{
+    text-align:center;  
+}
+
+button:hover {
+    background: #19706c;
+    cursor: pointer;
+}
+
+
+.sqr{
+    background: white;
+    margin:90px 350px 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 4px;
+    border: 2px solid #32bab4;
+}
+
+.top-right {
+    position: absolute;
+    top: 190px;
+    right: 530px;
+    color: Black;
+    font-size: 39px;
+    letter-spacing: 3px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+ }
+
+
+ input,  select,textarea{
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-top: 3px;
+    font-size: 15px;
+}
+
+label{
+    font-size: 17px;
+}
+
+
+
+form{
+    background: white;
+    border: 2px solid #32bab4;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 17px;
+}
+
+button{
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+    background: #32bab4;
+    border: none;
+    outline: none;
+}
+
+
+  
